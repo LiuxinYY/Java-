@@ -59,5 +59,5 @@ Java课程作业项目仓库
 ## 四、实验结果
  输出显示cpu的速度是：2200 硬盘的容量是：200
  ![图片文件](https://p.qlogo.cn/qqmail_head/PiajxSqBRaEK7NVzox8BdMgbmZFyg2S9v2a1JfLfpJlSdxItJHKibbsYiczU8GKSyN1n2BOQl5ct5A/0)
- ##实验感想
+ ## 实验感想
  
